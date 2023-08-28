@@ -1,0 +1,8 @@
+User,Comment
+Server: ,User Guest0 has joined.
+Server: ,User Guest1 has joined.
+Guest0: ,/kick admin Guest1
+Guest0: ,/kick 'admin' Guest1
+Guest0: ,/kick Guest1 admin
+Server: ,Guest0 has been kicked
+Server: ,Guest1 has disconected.
